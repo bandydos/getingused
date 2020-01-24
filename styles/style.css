@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-white{
+    color: white;
+}
+
+.bg-smart{
+    background-color: rgb(37, 224, 37);
+}
+
+.bg-clean{
+    background-color: rgb(57, 57, 235);
+}
+
+.banner{
+    width: 100%;
+    line-height: 60px;
+    margin: 0px;
+    padding: 6px;
+}
+
+.containerat{
+    margin-left: 64px;
+    margin-top: 64px;
+}
+
+.rowat{
+    margin-top: 24px;
+    width: 100%;
+    display: flex;
+}
+
+.colat{
+    margin: auto;
+    width: 25%;
+}
+
+.boxat{    
+    text-align: center;
+    line-height: 100px;
+}
+
+.borderat{
+    border: 1px solid black;
+    border-radius: 25px;
+}
